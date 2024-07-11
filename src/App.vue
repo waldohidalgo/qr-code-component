@@ -14,7 +14,7 @@ export default {
       class="bg-white mx-auto w-[85%] p-[14px] rounded-[13px] max-w-[320px] sm:rounded-[20px] sm:p-[16px] shadow-[0_25px_25px_0_rgba(0,0,0,0.04)]"
     >
       <img
-        class="rounded-[15px]"
+        class="rounded-[15px] w-full aspect-square"
         src="./assets/image-qr-code.png"
         alt="qr code"
       />
