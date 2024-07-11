@@ -18,7 +18,7 @@ export default {
         src="./assets/image-qr-code.png"
         alt="qr code"
       />
-      <div class="px-[10px] mt-[21px] sm:mt-[24px]">
+      <div class="mt-[21px] sm:mt-[24px]">
         <h1
           class="text-center text-darkBlue font-bold text-[20.5px] leading-[28px] [word-spacing:-1.8px] sm:text-[22px]"
         >
